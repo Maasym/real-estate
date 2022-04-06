@@ -27,9 +27,9 @@ const Featured = () => {
                 <img src={Bathroom} alt='' />
                 <div className='span-3 img-details'>
                     <div className='top'>
-                        <h2>123 Acme St. Dallas, TX</h2>
+                        <h2>123 Acme Street Amsterdam, NL</h2>
                         <p>House for Sale</p>
-                        <p className='price'>$2,677,000</p>
+                        <p className='price'>€2,677,000</p>
                     </div>
                     <div className='info-grid'>
                         <div>
@@ -42,16 +42,16 @@ const Featured = () => {
                         </div>
                         <div>
                             <div className='info'>
-                                <p className='bold'>Square Feet:</p><p>8,138</p>
+                                <p className='bold'>Square Meter:</p><p>756</p>
                             </div>
                             <div className='info'>
-                                <p className='bold'>Est Payment:</p><p>$14,797/mo</p>
+                                <p className='bold'>Est Payment:</p><p>€14,797/mo</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div className='span-2 right-img-details'>
-                    <p>A beautiful modern day home in the city with a full-size pool. Spacious and luxurious home located in Texas. Including media room, workout facility, and built-in sauna. </p>
+                    <p>A beautiful modern day home in the city with a full-size pool. Spacious and luxurious home located in Amsterdam. Including media room, workout facility, and built-in sauna. </p>
                     <button className='btn'>View Listing</button>
                 </div>
             </div>
@@ -68,16 +68,16 @@ const Featured = () => {
                 <img className='order-5' src={LivingRoom} alt='' />
 
                 <div className='span-2 right-img-details order-7'>
-                    <p>A beautiful modern day home in the city with a full-size pool. Spacious and luxurious home located in Texas. Including media room, workout facility, and built-in sauna. </p>
+                    <p>A beautiful modern day home in the city with a full-size pool. Spacious and luxurious home located in Amsterdam. Including media room, workout facility, and built-in sauna. </p>
                     <button className='btn'>View Listing</button>
                 </div>
 
 
                 <div className='span-3 img-details order-6'>
                     <div className='top'>
-                        <h2>123 Acme St. Dallas, TX</h2>
+                        <h2>123 Acme Street Amsterdam, NL</h2>
                         <p>House for Sale</p>
-                        <p className='price'>$2,677,000</p>
+                        <p className='price'>€2,677,000</p>
                     </div>
                     <div className='info-grid'>
                         <div>
@@ -90,10 +90,10 @@ const Featured = () => {
                         </div>
                         <div>
                             <div className='info'>
-                                <p className='bold'>Square Feet:</p><p>8,138</p>
+                                <p className='bold'>Square Meter:</p><p>756</p>
                             </div>
                             <div className='info'>
-                                <p className='bold'>Est Payment:</p><p>$14,797/mo</p>
+                                <p className='bold'>Est Payment:</p><p>€14,797/mo</p>
                             </div>
                         </div>
                     </div>
